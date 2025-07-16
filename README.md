@@ -42,4 +42,4 @@ To transform raw data into **visual insights** using Python and popular data vis
 
 1. **Clone this repository:**
 git clone https://github.com/YOUR-USERNAME/CodeAlpha_DataVisualization.git
-cd CodeAlpha_DataVisualization
+```cd CodeAlpha_DataVisualization```
