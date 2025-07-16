@@ -41,7 +41,8 @@ To transform raw data into **visual insights** using Python and popular data vis
 ## 🚀 How to Run This Project Locally
 
 1. **Clone this repository:**
-```bash git clone https://github.com/sriyareddy/CodeAlpha_DataVisualization.git
+```bash
+git clone https://github.com/sriyareddy/CodeAlpha_DataVisualization.git
 cd CodeAlpha_DataVisualization
 ```
 2. **Install Required Libraries:**
