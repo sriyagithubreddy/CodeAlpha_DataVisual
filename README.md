@@ -45,13 +45,13 @@ To transform raw data into **visual insights** using Python and popular data vis
 git clone https://github.com/sriyareddy/CodeAlpha_DataVisualization.git
 cd CodeAlpha_DataVisualization
 ```
-2. **Install Required Libraries:** 
+2. **Install Required Libraries:**  
 pip install pandas matplotlib seaborn
 
-3. **Run the Python Script:** 
+3. **Run the Python Script:**  
 python data_visualization.py
 
-4. **Output:**  
+4. **Output:**   
 All charts will be saved in the `charts/` directory.
 
 ---
@@ -81,11 +81,8 @@ CodeAlpha_DataVisualization/
 
 ---
 
-## 🔗 LinkedIn Post
-[Your LinkedIn Post Link Here]
-
 ## 🔗 GitHub Repository
-[https://github.com/YOUR-USERNAME/CodeAlpha_DataVisualization](https://github.com/sriyagithubreddy/CodeAlpha_DataVisualization)
+[https://github.com/sriyagithubreddy/CodeAlpha_DataVisualization](https://github.com/sriyagithubreddy/CodeAlpha_DataVisualization)
 
 ---
 
